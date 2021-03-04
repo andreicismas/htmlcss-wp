@@ -42,7 +42,7 @@ aside > img,article > img{
 
 }
 
-.clairfix::after{
+.clearfix::after{
 	content: "";
 	display: table;
 	clear: both;
@@ -60,7 +60,7 @@ aside > img,article > img{
 .box-2{
 	background: url(img/img-2.jpg);
 }
-.asaid-2{
+.aside-section-2{
 	height: 100%;
 	width: 40%;
 	float: left;
@@ -75,7 +75,7 @@ aside > img,article > img{
 	background-position: center;
 }
 
-.asaid{
+.aside-section{
 	height: 100%;
 	width: 25%;
 	float: left;
